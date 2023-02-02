@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandan Kumar V</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.crowdbotics.com%2Fblog%2F29-useful-open-source-libraries-for-nodejs&psig=AOvVaw1XdvJ4v1R6VDFV1CUZDVWo&ust=1675445082028000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJju5Lmt9_wCFQAAAAAdAAAAABAJ" alt="">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vchandankumarr&label=Profile%20views&color=0e75b6&style=flat" alt="vchandankumarr" /> </p>
+ <img src="https://crowdbotics.ghost.io/content/images/2019/06/Open-Source-Libraries-for-NodeJS.gif" alt="">
 
 - 🌱 I’m currently learning **Node.js,SQL,MongoDB,javaScript**
 
